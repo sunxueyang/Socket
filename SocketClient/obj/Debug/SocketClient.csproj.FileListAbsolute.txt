@@ -1,0 +1,1 @@
+C:\Users\sunxueyang\Desktop\netSocket\SocketClient\bin\Debug\SocketClient.exe.config

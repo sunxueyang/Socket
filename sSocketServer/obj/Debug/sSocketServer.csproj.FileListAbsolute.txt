@@ -1,0 +1,5 @@
+C:\Users\sunxueyang\Desktop\netSocket\sSocketServer\bin\Debug\sSocketServer.exe.config
+C:\Users\sunxueyang\Desktop\netSocket\sSocketServer\bin\Debug\sSocketServer.exe
+C:\Users\sunxueyang\Desktop\netSocket\sSocketServer\bin\Debug\sSocketServer.pdb
+C:\Users\sunxueyang\Desktop\netSocket\sSocketServer\obj\Debug\sSocketServer.exe
+C:\Users\sunxueyang\Desktop\netSocket\sSocketServer\obj\Debug\sSocketServer.pdb

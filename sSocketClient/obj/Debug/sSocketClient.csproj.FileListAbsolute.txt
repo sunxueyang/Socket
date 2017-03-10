@@ -1,0 +1,6 @@
+C:\Users\sunxueyang\Desktop\netSocket\sSocketClient\bin\Debug\sSocketClient.exe.config
+C:\Users\sunxueyang\Desktop\netSocket\sSocketClient\bin\Debug\sSocketClient.exe
+C:\Users\sunxueyang\Desktop\netSocket\sSocketClient\bin\Debug\sSocketClient.pdb
+C:\Users\sunxueyang\Desktop\netSocket\sSocketClient\obj\Debug\sSocketClient.csprojResolveAssemblyReference.cache
+C:\Users\sunxueyang\Desktop\netSocket\sSocketClient\obj\Debug\sSocketClient.exe
+C:\Users\sunxueyang\Desktop\netSocket\sSocketClient\obj\Debug\sSocketClient.pdb
